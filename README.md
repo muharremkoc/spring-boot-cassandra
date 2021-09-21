@@ -51,5 +51,4 @@ describe keyspaces;''
 
 
 
-
-     [Muharrem Koç](https://github.com/muharremkoc/)
+[Muharrem Koç](https://github.com/muharremkoc/)
